@@ -1,0 +1,22 @@
+nav&footer bg: #140E17;
+body bg:#381B4A;
+main color: #9B5BD9;
+
+
+text nav: 
+GDGoC
+Home, About us, Tracks, Contact Us
+
+Home section: 
+Welcome to Google Developers Group On Campus Benha University
+Code the Universe, Shape the Future
+Buttons:Learn More , Contact Us 
+
+
+About us section:
+WE ARE GDGc
+A student community passionate about technology and innovation. We aim to create a space where members learn, grow, and connect through events, workshops, and hands-on experiences.”
+Additional line: “From exploring Google technologies to coding and entrepreneurship, we support skill-building, collaboration, and meaningful connections with industry experts.
+More about us
+
+
